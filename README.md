@@ -1,0 +1,6 @@
+# allinoneclick
+
+Its a stock market calculator which saves time..by showing all calcultor result at one place ..
+TECHNOLOGY USED 
+angular ,php , scarpping ,simplehtml dom ,css....
+The scarpping is done only for learning purpose not for commercial purpose .....
